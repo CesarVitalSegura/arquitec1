@@ -1,0 +1,39 @@
+
+#sliders{
+margin-top: 40px;
+margin-left: 60px;
+margin-right: 60px;
+margin-bottom: 30px;
+border-radius: 15px 15px 15px 15px;
+}
+
+.img-carrusel{
+    
+    border-radius: 15px 15px 15px 15px;
+}
+body{
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(29,29,29,1) 39%, rgba(54,54,54,1) 72%, rgba(88,88,88,1) 100%);
+}
+#quien-soy{
+    background-image: url(ims/sen.png);
+    min-height: 350px;
+    background-attachment: fixed;
+}
+#gustos{
+    background-image: url(ims/sen2.png);
+    min-height: 350px;
+    background-attachment: fixed;
+}
+#experiencia{
+    background-image: url(ims/sen3.png);
+    min-height: 350px;
+    background-attachment: fixed;
+
+}
+#servicios{
+    background-image: url(ims/sen4.png);
+    min-height: 350px;
+    background-attachment: fixed;
+
+}
